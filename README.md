@@ -4,9 +4,9 @@
 
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&hide_border=true&order=1)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dazai&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2)](https://github.com/sr-dazai/github-readme-stats)
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-dazai&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-dazai&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&hide_border=true&order=1)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficial-dazai&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2)](https://github.com/oficial-dazai/github-readme-stats)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oficial-dazai&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 <h2 align="center">My Skills</h2>
@@ -39,7 +39,7 @@
 <h2 align="">Contacts:</h2>
 
 <div>
-   <a href="https://www.youtube.com/@sr_dazai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/@oficial-dazai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/tVNv6SNZZT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/kenned-candido" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
