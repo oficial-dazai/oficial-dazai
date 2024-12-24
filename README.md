@@ -9,9 +9,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficial-dazai&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2)](https://github.com/oficial-dazai/github-readme-stats)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oficial-dazai&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 
-  <a href="https://nubank.com.br/cobrar/1na00u/67594881-0eb2-45fc-b73c-7d065d9ba400" target="_blank"><img src="https://img.shields.io/badge/nubank-820AD1?style=for-the-badge&logo=nubank&logoColor=white" target="_blank"></a>
-  <a href="https://ko-fi.com/oficial_dazai" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
-  <a href="https://www.paypal.com/donate/?business=AUZRQZ6DZZAPQ&no_recurring=0&currency_code=USD" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a> 
 </div>
 
 <h2 align="center">My Skills</h2>
@@ -40,10 +37,12 @@
 
 &nbsp;
 
-## Contacts:
+##
 
-<div>
-   <a href="https://www.youtube.com/@oficial-dazai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/tVNv6SNZZT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="https://steamcommunity.com/id/oficial_dazai/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<div align="center">
+
+  <a href="https://nubank.com.br/cobrar/1na00u/67594881-0eb2-45fc-b73c-7d065d9ba400" target="_blank"><img src="https://img.shields.io/badge/nubank-820AD1?style=for-the-badge&logo=nubank&logoColor=white" target="_blank"></a>
+  <a href="https://ko-fi.com/oficial_dazai" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+  <a href="https://www.paypal.com/donate/?business=AUZRQZ6DZZAPQ&no_recurring=0&currency_code=USD" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+  
 </div>
