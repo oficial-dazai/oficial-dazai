@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-dazai&show_icons=true&hide_border=true&hide_title=true&title_color=346a39&icon_color=346a39&text_color=c9d1d9&bg_color=0d1317)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-dazai&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=346a39&icon_color=346a39&text_color=c9d1d9&bg_color=0d1317)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficial-dazai&layout=compact&hide_border=true&hide_title=true&text_color=c9d1d9&bg_color=0d1317)](https://github.com/anuraghazra/github-readme-stats)
   [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oficial-dazai&bg_color=0d1317&color=346a39&line=346a39&point=346a39&area=false&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
