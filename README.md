@@ -22,7 +22,6 @@
 
 ### Tools:
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
 ![Vscode](https://img.shields.io/badge/-Vscode-0D1117?style=for-the-badge&logo=vscode&logoColor=0D1117&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
