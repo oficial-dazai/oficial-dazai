@@ -26,6 +26,8 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
-<!--### Currently Learning:-->
+### Currently Learning:
+
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=346a39&height=100&section=footer"/>
