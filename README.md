@@ -4,9 +4,9 @@
 
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-dazai&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=bcc3df&icon_color=bcc3df&text_color=c9d1d9&bg_color=0f111a)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficial-dazai&layout=compact&hide_border=true&hide_title=true&text_color=c9d1d9&bg_color=0f111a)](https://github.com/anuraghazra/github-readme-stats)
-  [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oficial-dazai&bg_color=0f111a&color=bcc3df&line=bcc3df&point=bcc3df&area=false&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-dazai&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=bcc3df&icon_color=bcc3df&text_color=c2cae5&bg_color=0f111a)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficial-dazai&layout=compact&hide_border=true&hide_title=true&text_color=c2cae5&bg_color=0f111a)](https://github.com/anuraghazra/github-readme-stats)
+  [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oficial-dazai&bg_color=0f111a&color=bcc3df&line=bcc3df&point=c2cae5&area=false&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 <hr>
