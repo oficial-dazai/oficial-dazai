@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bcc3df&height=85&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b3036&height=85&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=BCC3DF&center=true&vCenter=true&repeat=true&width=1000&lines=WELCOME+TO+MY+GITHUB+PROFILE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=B7A99A&center=true&vCenter=true&repeat=true&width=1000&lines=WELCOME+TO+MY+GITHUB+PROFILE)](https://git.io/typing-svg)
 
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-dazai&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=bcc3df&icon_color=bcc3df&text_color=c2cae5&bg_color=0f111a)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficial-dazai&layout=compact&hide_border=true&hide_title=true&text_color=c2cae5&bg_color=0f111a)](https://github.com/anuraghazra/github-readme-stats)
-  [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oficial-dazai&bg_color=0f111a&color=bcc3df&line=bcc3df&point=c2cae5&area=false&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-dazai&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=B7A99A&icon_color=B7A99A&text_color=8C9094&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficial-dazai&layout=compact&hide_border=true&hide_title=true&text_color=8C9094&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+  [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oficial-dazai&bg_color=0D1117&color=B7A99A&line=3E444A&point=8C9094&area=false&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 <hr>
@@ -30,4 +30,4 @@
 
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&color=0D1117)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bcc3df&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b3036&height=100&section=footer"/>
